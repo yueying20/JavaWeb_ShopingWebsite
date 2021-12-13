@@ -1,4 +1,4 @@
-#购物网站描述
+
 1.2.1开发工具介绍
 主要开发工具为IDEA版本、Mysql8.0、Tomcat9.0
 主要技术包括：Spring、Spring MVC、MyBatis 
